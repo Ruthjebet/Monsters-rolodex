@@ -6,3 +6,14 @@ h1{
   font-size: 72px;
   color: #0ccac4;
 }
+
+@media (max-width: 1000px) {
+  h1{ 
+    font-size: 64px; 
+  }
+}
+@media (max-width: 600px) {
+  h1{ 
+    font-size: 48px; 
+  }
+}
