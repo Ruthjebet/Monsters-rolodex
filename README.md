@@ -1,9 +1,3 @@
-memory blocks
---------
-[9][0][0][0][0][0]
-
-
-
 n# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
